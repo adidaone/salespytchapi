@@ -1,0 +1,9 @@
+D:\Samples\SalesPytch\SalesPytch.Database\bin\Debug\SalesPytch.Database.dacpac
+D:\Samples\SalesPytch\SalesPytch.Database\bin\Debug\SalesPytch.Database.dll
+D:\Samples\SalesPytch\SalesPytch.Database\bin\Debug\SalesPytch.Database.pdb
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\SalesPytch.Database.dll
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\SalesPytch.Database.pdb
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\Model.xml
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\refactor.xml
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\postdeploy.sql
+D:\Samples\SalesPytch\SalesPytch.Database\obj\Debug\predeploy.sql

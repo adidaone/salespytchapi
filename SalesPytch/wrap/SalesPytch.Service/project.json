@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net40": {
+      "wrappedProject": "../../SalesPytch.Service/SalesPytch.Service.csproj",
+      "bin": {
+        "assembly": "../../SalesPytch.Service/obj/{configuration}/SalesPytch.Service.dll",
+        "pdb": "../../SalesPytch.Service/obj/{configuration}/SalesPytch.Service.pdb"
+      },
+      "dependencies": {
+        "System.Net.Http": "1.0.0-*"
+      }
+    }
+  }
+}

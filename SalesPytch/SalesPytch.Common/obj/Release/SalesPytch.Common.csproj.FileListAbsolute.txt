@@ -1,0 +1,4 @@
+D:\Samples\SalesPytch\SalesPytch.Common\bin\Release\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Common\bin\Release\SalesPytch.Common.pdb
+D:\Samples\SalesPytch\SalesPytch.Common\obj\Release\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Common\obj\Release\SalesPytch.Common.pdb

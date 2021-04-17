@@ -1,0 +1,14 @@
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.DAL.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.DAL.pdb
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.csprojResolveAssemblyReference.cache
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.pdb
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.Model.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.DAL.pdb
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Debug\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.csprojResolveAssemblyReference.cache
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Debug\SalesPytch.DAL.pdb

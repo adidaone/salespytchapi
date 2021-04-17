@@ -1,0 +1,7 @@
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Release\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Release\SalesPytch.DAL.pdb
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Release\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\bin\Release\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Release\SalesPytch.DAL.csprojResolveAssemblyReference.cache
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Release\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.DAL\obj\Release\SalesPytch.DAL.pdb

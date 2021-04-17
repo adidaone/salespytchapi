@@ -1,0 +1,8 @@
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Model\bin\Debug\SalesPytch.Model.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Model\bin\Debug\SalesPytch.Model.pdb
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Model\obj\Debug\SalesPytch.Model.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Model\obj\Debug\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.Model\bin\Debug\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.Model\bin\Debug\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.Model\obj\Debug\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.Model\obj\Debug\SalesPytch.Model.pdb

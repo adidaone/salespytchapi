@@ -1,0 +1,24 @@
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Service.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Service.pdb
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.csprojResolveAssemblyReference.cache
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Model.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Model.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Common.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.DAL.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Repository.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Common.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.DAL.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Repository.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Service.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Service.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Common.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.DAL.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Debug\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.csprojResolveAssemblyReference.cache
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.dll
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Debug\SalesPytch.Service.pdb

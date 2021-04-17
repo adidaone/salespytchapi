@@ -1,0 +1,9 @@
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Common\bin\Debug\SalesPytch.Common.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Common\bin\Debug\SalesPytch.Common.pdb
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Common\obj\Debug\SalesPytch.Common.csprojResolveAssemblyReference.cache
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Common\obj\Debug\SalesPytch.Common.dll
+C:\Users\v-adkoli\documents\visual studio 2015\Projects\SalesPytch\SalesPytch.Common\obj\Debug\SalesPytch.Common.pdb
+D:\Samples\SalesPytch\SalesPytch.Common\bin\Debug\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Common\bin\Debug\SalesPytch.Common.pdb
+D:\Samples\SalesPytch\SalesPytch.Common\obj\Debug\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Common\obj\Debug\SalesPytch.Common.pdb

@@ -1,0 +1,11 @@
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Service.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Service.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Common.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.DAL.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Model.dll
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Common.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.DAL.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\bin\Release\SalesPytch.Model.pdb
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Release\SalesPytch.Service.csprojResolveAssemblyReference.cache
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Release\SalesPytch.Service.dll
+D:\Samples\SalesPytch\SalesPytch.Service\obj\Release\SalesPytch.Service.pdb

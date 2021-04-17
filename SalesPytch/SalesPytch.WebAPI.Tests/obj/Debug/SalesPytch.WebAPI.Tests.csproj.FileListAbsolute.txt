@@ -1,0 +1,50 @@
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.Tests.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.Tests.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Service.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Repository.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Service.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Repository.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Model.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.DAL.dll
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.Model.pdb
+C:\Users\v-adkoli\Documents\Visual Studio 2015\Projects\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.DAL.pdb
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.Tests.dll
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\SalesPytch.WebAPI.Tests.pdb
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.csprojResolveAssemblyReference.cache
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.dll
+D:\Samples\SalesPytch\SalesPytch.WebAPI.Tests\obj\Debug\SalesPytch.WebAPI.Tests.pdb
